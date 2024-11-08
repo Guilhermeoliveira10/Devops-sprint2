@@ -1,0 +1,17 @@
+version: '3'
+services:
+  backend:
+    build: .
+    container_name: dentinho_backend
+    ports:
+      - "8080:8080"
+  db:
+    image: mysql:8.0
+    environment:
+      MYSQL_ROOT_PASSWORD: senha
+      MYSQL_DATABASE: dentinho_db
+      MYSQL_USER: usuario
+      MYSQL_PASSWORD: senha
+    ports:
+      - "3306:3306"
+
