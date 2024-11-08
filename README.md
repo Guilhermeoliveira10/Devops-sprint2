@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projeto Dentinho Feliz
 
 Este projeto é uma aplicação Java simples chamada **Dentinho Feliz**, criada para fins de prática com Docker, Docker Compose e Maven em uma máquina virtual Linux na nuvem. O objetivo é executar uma aplicação backend em Java que imprime uma mensagem de boas-vindas e configura um banco de dados MySQL.
@@ -23,3 +24,6 @@ O projeto **Dentinho Feliz** utiliza uma estrutura de containers para garantir a
    git clone <https://github.com/Guilhermeoliveira10/Devops-sprint2.git>
    cd dentinho-feliz
 
+=======
+# Devops-sprint2
+>>>>>>> bed82ecdd5161bafbab6470a181447847cdf048a
