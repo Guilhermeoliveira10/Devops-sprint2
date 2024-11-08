@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-
 =======
 # Devops-sprint2
->>>>>>> bed82ecdd5161bafbab6470a181447847cdf048a
 
 # Projeto Dentinho Feliz
 
